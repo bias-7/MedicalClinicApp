@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288599910040",
+    "project_id": "medical-clinic-f5403",
+    "storage_bucket": "medical-clinic-f5403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288599910040:android:500f66ef49b1e9b41b92ed",
+        "android_client_info": {
+          "package_name": "com.example.medical_clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288599910040-lhs1q772hg5t8j44o481t7aovm0h98vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpVmSbb7cwsto8dVwiLintQ3PyzZJrR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288599910040-lhs1q772hg5t8j44o481t7aovm0h98vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Medical Clinic</string>
+
+
+    <string name="banner">Medical Clinic</string>
+
+    <string name="banner_description">Book an Appointment</string>
+
+    <string name="ref_key_remember">remember</string>
+    <string name="ref_key_email">email</string>
+    <string name="ref_key_password">password</string>
+
+
+    <string name="user_key">key</string>
+
+    <string name="loggedInUser">loggedInUser</string>
+    <string name="userInfo">userInfo</string>
+
+
+    <string name="upcoming_appointment_key">upcomingAppointment</string>
+
+</resources>
